@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     Bandymas2Theme {
-        Greeting("Android")
+        Greeting("My Android")
     }
 }
